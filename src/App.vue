@@ -1,11 +1,13 @@
 <template>
   <div id="app">
-    <first></first>
-    <second></second>
-    <!-- <router-view/> -->
+    <router-view/>
   </div>
 </template>
 
 <style lang="less">
+p{
+  width: 400px;
+  background: pink
 
+}
 </style>
